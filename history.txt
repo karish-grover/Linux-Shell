@@ -1,0 +1,6 @@
+pwd
+pwd --help
+date
+date -u
+history
+exit
