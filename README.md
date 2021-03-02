@@ -21,5 +21,5 @@ two options you are handling and need to demonstrate correct functioning of
 the command with respect to (atleast) your chosen options. You also need to
 handle corner cases such as invalid options (graceful degradation).
 
-[OS Assignment Write Up - Question 2.pdf](https://github.com/KarishGrover11/Linux-Shell/files/6067695/OS.Assignment.Write.Up.-.Question.2.pdf)
 
+<img width="507" alt="Screenshot 2021-03-02 at 3 19 33 PM" src="https://user-images.githubusercontent.com/64140048/109630238-b34f4a80-7b6a-11eb-8951-012dae5a47d0.png">
