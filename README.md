@@ -21,5 +21,15 @@ two options you are handling and need to demonstrate correct functioning of
 the command with respect to (atleast) your chosen options. You also need to
 handle corner cases such as invalid options (graceful degradation).
 
+<img width="717" alt="Screenshot 2021-03-02 at 3 34 35 PM" src="https://user-images.githubusercontent.com/64140048/109632723-5c974000-7b6d-11eb-993d-18d34475d07a.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 35 03 PM" src="https://user-images.githubusercontent.com/64140048/109632730-5ef99a00-7b6d-11eb-858b-c1eca0f49d2a.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 35 11 PM" src="https://user-images.githubusercontent.com/64140048/109632737-60c35d80-7b6d-11eb-9853-4e363f754b4b.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 35 23 PM" src="https://user-images.githubusercontent.com/64140048/109632748-6325b780-7b6d-11eb-81d6-0449cc13d2a4.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 35 52 PM" src="https://user-images.githubusercontent.com/64140048/109632754-64ef7b00-7b6d-11eb-9922-06c4e9f96893.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 36 05 PM" src="https://user-images.githubusercontent.com/64140048/109632762-6620a800-7b6d-11eb-8f3f-b070e5a20443.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 36 14 PM" src="https://user-images.githubusercontent.com/64140048/109632771-67ea6b80-7b6d-11eb-8ff0-d39012626254.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 36 45 PM" src="https://user-images.githubusercontent.com/64140048/109632774-691b9880-7b6d-11eb-85b0-f679ba45e787.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 37 17 PM" src="https://user-images.githubusercontent.com/64140048/109632779-6a4cc580-7b6d-11eb-87b0-b567fd9dbc56.png">
+<img width="717" alt="Screenshot 2021-03-02 at 3 37 35 PM" src="https://user-images.githubusercontent.com/64140048/109632787-6b7df280-7b6d-11eb-88b7-faa739bc0c24.png">
 
-<img width="507" alt="Screenshot 2021-03-02 at 3 19 33 PM" src="https://user-images.githubusercontent.com/64140048/109630238-b34f4a80-7b6a-11eb-8951-012dae5a47d0.png">
+
